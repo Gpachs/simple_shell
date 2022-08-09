@@ -1,4 +1,4 @@
-GOLDMAN OBIOMA AND HELLEN
+GOLDMAN OBIOMA AND HELLEN Namatovu
 
 ![image](https://user-images.githubusercontent.com/104031141/183405265-5dbbd257-f971-4f52-822c-48373fbe0e39.png)
 
@@ -24,4 +24,4 @@ In non-interactive mode, echo your desired command and pipe it into the program 
 
 echo "ls" | ./shell
 
-All code was written by Goldman Obioma and Hellen
+All code was written by Goldman Obioma and Hellen Namatovu
