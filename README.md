@@ -1,4 +1,4 @@
-GOLDMAN OBIOMA AND HELLEN NAMATOVU
+GOLDMAN OBIOMA AND NAMATOVU HELLEN.
 
 ![image](https://user-images.githubusercontent.com/104031141/183405265-5dbbd257-f971-4f52-822c-48373fbe0e39.png)
 
