@@ -6,7 +6,7 @@
  */
 void aux_help(void)
 {
-    char *help = "help: help [-dms] [pattern ...]\n";
+ char *help = "help: help [-dms] [pattern ...]\n";
 
 	write(STDOUT_FILENO, help, _strlen(help));
 	help = "\tDisplay information about builtin commands.\n ";
