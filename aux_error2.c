@@ -7,7 +7,7 @@
  */
 char *error_env(data_shell *datash)
 {
-    int length;
+int length;
 	char *error;
 	char *ver_str;
 	char *msg;
