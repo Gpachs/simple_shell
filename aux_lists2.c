@@ -11,7 +11,7 @@
  */
 r_var *add_rvar_node(r_var **head, int lvar, char *val, int lval)
 {
-	r_var *new, *temp;
+r_var *new, *temp;
 
 	new = malloc(sizeof(r_var));
 	if (new == NULL)
